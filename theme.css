@@ -14,9 +14,9 @@ html, body{
     background-position: 50% 50%;
     background-attachment: scroll;
     background-size: cover;
-    height: 75vh;
+    height: 90vh;
     margin: 0;
-    padding-top: 25vh;
+    padding-top: 10vh;
 }
 .heading {
     color: #000000;
