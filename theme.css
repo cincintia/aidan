@@ -22,10 +22,10 @@ html, body{
 }
 
 .tm-slide-content-div {
-	background-color: rgba(255,255,255,0.8);
-	border-radius: 20px;	
-	margin-left: 2%;
-    margin-right: 2%;
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 20px;	
+   /*margin-left: 2%;
+    margin-right: 2%; */
     margin-top: -10px;
     max-width: 600px;
     padding: 4%;
